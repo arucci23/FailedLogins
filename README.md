@@ -42,8 +42,4 @@ Example Output
 If a user fails to log in multiple times, the script sends an alert to Teams:  
 "ALERT: User 'john.doe' has failed to log in 5 times in the past 5 days."  
 
-Disclaimer  
-This script is provided as-is for educational and security monitoring purposes. Use it at your own risk.  
 
-License  
-MIT License  
